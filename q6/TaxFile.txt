@@ -1,0 +1,5 @@
+Name:sandy
+Age:20
+Basic Salary: Rs.600000.0
+Tax Deducted: Rs.60000.0
+Net Salary: Rs.540000.0
